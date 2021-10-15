@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="185.114.247.92" id="5e764bb0-9fba-4c8d-93ed-4cb021dd5e5e" port="22" customName="skellbox" nameFormat="CUSTOM" username="cu70265">
+        <option name="customName" value="skellbox" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>
